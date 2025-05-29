@@ -1,0 +1,86 @@
+{
+  "warrior": {
+    "useBroochOn": [350100, 200200],
+    "useRootBeerOn": [350100, 200200],
+    "useOutOfCombat": false,
+    "delay": 0
+  },
+  "lancer": {
+    "useBroochOn": [120100, 170200, 70300],
+    "useRootBeerOn": [120100, 170200, 70300],
+    "useOutOfCombat": false,
+    "delay": 0
+  },
+  "slayer": {
+    "useBroochOn": [280100, 200200],
+    "useRootBeerOn": [280100, 200200],
+    "useOutOfCombat": false,
+    "delay": 0
+  },
+  "berserker": {
+    "useBroochOn": [330100],
+    "useRootBeerOn": [330100],
+    "useOutOfCombat": false,
+    "delay": 0
+  },
+  "sorcerer": {
+    "useBroochOn": [390100],
+    "useRootBeerOn": [390100],
+    "useOutOfCombat": false,
+    "delay": 0
+  },
+  "archer": {
+    "useBroochOn": [350100],
+    "useRootBeerOn": [350100],
+    "useOutOfCombat": false,
+    "delay": 0
+  },
+  "priest": {
+    "useBroochOn": [430100],
+    "useRootBeerOn": [430100],
+    "useOutOfCombat": false,
+    "delay": 0
+  },
+  "elementalist": {
+    "_comment": "MYSTIC",
+    "useBroochOn": [480100],
+    "useRootBeerOn": [480100],
+    "useOutOfCombat": false,
+    "delay": 0
+  },
+  "fighter": {
+    "_comment": "BRAWLER",
+    "useBroochOn": [140101, 260100],
+    "useRootBeerOn": [140101, 260100],
+    "useOutOfCombat": false,
+    "delay": 0
+  },
+  "engineer": {
+    "_comment": "GUNNER",
+    "useBroochOn": [410101],
+    "useRootBeerOn": [410101],
+    "useOutOfCombat": false,
+    "delay": 0
+  },
+  "glaiver": {
+    "_comment": "VALK",
+    "useBroochOn": [250100, 120100],
+    "useRootBeerOn": [250100, 120100],
+    "useOutOfCombat": false,
+    "delay": 0
+  },
+  "soulless": {
+    "_comment": "REAPER",
+    "useBroochOn": [220100, 160100],
+    "useRootBeerOn": [220100, 160100],
+    "useOutOfCombat": false,
+    "delay": 0
+  },
+  "assassin": {
+    "_comment": "NINJA",
+    "useBroochOn": [230100],
+    "useRootBeerOn": [230100],
+    "useOutOfCombat": false,
+    "delay": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "files": {
+        "README.md": "6f13c7d3760fb5b048a6dd3bcdd2109a841e6d111a1226d718a863b8149c7623",
+        "index.js": "9d7336ce5b37e6b7197caf370950e132795583e9e83acfa17718af7ec2c4dc5e",
+        "items.json": {
+            "hash": "b6a954b67ca2d20ba63d1972e9f11f10d7cafeeb1334a9bd721cca4df601f6fb",
+            "overwrite": false
+        },
+        "module.json": "a7a6f74639725c926a4845eeef30e7329cd1e2e9e5686bc4cbc6d5aa761952f3",
+        "skills.json": {
+            "hash": "2c60e2134c05e5f4ed696dc24e486a9e118c512b0c7ca814c7cb576a77de250e",
+            "overwrite": false
+        }
+    },
+    "defs": {
+        "C_START_SKILL": 7,
+        "C_USE_ITEM": 3,
+        "S_LOGIN": 14,
+        "S_START_COOLTIME_ITEM": 1
+    }
+}

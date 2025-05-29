@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Lazyrootbeer",
+    "author": "Shalltearz & Yushi",
+    "description": "Auto-uses configured brooch & consumable on class-specific skills. Settings managed via in-game commands and local files.",
+    "version": "2.0.0",
+    "options": {
+        "niceName": "Lazyrootbeer (Custom)"
+    },
+    "servers": ["https://raw.githubusercontent.com/Yushi47/lazyrootbeer/master/"],
+    "supportUrl": "https://github.com/Yushi47/lazyrootbeer/issues"
+}
