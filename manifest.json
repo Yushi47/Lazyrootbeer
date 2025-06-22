@@ -1,14 +1,14 @@
 {
     "files": {
-        "README.md": "6f13c7d3760fb5b048a6dd3bcdd2109a841e6d111a1226d718a863b8149c7623",
-        "index.js": "9d7336ce5b37e6b7197caf370950e132795583e9e83acfa17718af7ec2c4dc5e",
+        "README.md": "39964e4a8ebeee46cff3fce1e59db473d53fb86b50b7e6f04e76bfb5b67549c8",
+        "index.js": "95a3fefc8a83a10d1def3034a2dfd649c7baf8cf3e85d7f16d7b50d392b9d2c7",
         "items.json": {
-            "hash": "b6a954b67ca2d20ba63d1972e9f11f10d7cafeeb1334a9bd721cca4df601f6fb",
+            "hash": "75d8e6b4f01d25a4c3b81a769dba17b6d249676d1013bfb75dcdc9895ff8cda5",
             "overwrite": false
         },
-        "module.json": "a7a6f74639725c926a4845eeef30e7329cd1e2e9e5686bc4cbc6d5aa761952f3",
+        "module.json": "a0116b15d47945e6798468fa539ce0c75cd92ff76f9fdb8ddc45a61626fadea1",
         "skills.json": {
-            "hash": "2c60e2134c05e5f4ed696dc24e486a9e118c512b0c7ca814c7cb576a77de250e",
+            "hash": "cfd88e7f17e8ceafc818f87c8e75e8a88d73dd9791fc39fd52c84e7e74f4b207",
             "overwrite": false
         }
     },
@@ -16,6 +16,7 @@
         "C_START_SKILL": 7,
         "C_USE_ITEM": 3,
         "S_LOGIN": 14,
+        "S_SHOW_ITEM_TOOLTIP": 14,
         "S_START_COOLTIME_ITEM": 1
     }
 }
